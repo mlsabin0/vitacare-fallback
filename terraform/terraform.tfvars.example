@@ -1,0 +1,11 @@
+project_id = "id-do-projeto"
+
+region = "sua-regiao"
+
+compute_service_account = "compute-engine-service-account"
+
+iap_support_email = "email-time-suporte"
+
+iap_access_group_email = "endereço-grupo-emails"
+
+dns_domain_name    = "seu-dominio"
